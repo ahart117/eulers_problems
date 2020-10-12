@@ -1,0 +1,9 @@
+n = 1
+res = 0
+
+
+while n <= 1000
+  if n % 3 == 0 or n % 5 == 0:
+      Res=res + n
+      else:
+       n += 1
